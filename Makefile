@@ -1,5 +1,5 @@
-NAME = phusion/baseimage
-VERSION = 0.9.10
+NAME = yebyen/baseimage
+VERSION = i386
 
 .PHONY: all build test tag_latest release ssh
 
