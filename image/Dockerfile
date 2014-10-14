@@ -1,5 +1,5 @@
-FROM yebyen/ubuntu:trusty
-MAINTAINER Kingdon <yebyen@gmail.com>
+FROM jedihe/baseimage-i386:precise
+MAINTAINER jedihe <jedihe@gmail.com>
 
 ENV HOME /root
 RUN mkdir /build
