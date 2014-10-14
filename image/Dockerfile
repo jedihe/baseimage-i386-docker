@@ -1,4 +1,4 @@
-FROM jedihe/baseimage-i386:precise
+FROM jedihe/ubuntu-i386:precise
 MAINTAINER jedihe <jedihe@gmail.com>
 
 ENV HOME /root
